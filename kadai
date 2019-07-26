@@ -1,2 +1,3 @@
 x="nice to meet you."
 print("Hello Xinxin, "+x)
+print("I am Richino Hagiwara.My birthday is Feb 2.")
